@@ -75,6 +75,7 @@ int main() {
 
 
 **Output :**
+
 ![image](https://github.com/user-attachments/assets/1d05fa6d-93da-496c-9d93-6edd4721a35c)
 
 
